@@ -65,7 +65,3 @@ AS
 GO
 
 EXEC Najlepszy @id_zesp = 20
-
-
-
-
